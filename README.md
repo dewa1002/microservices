@@ -1,7 +1,7 @@
 Adding projects with git
 # microservices
 Tracking my microservices code
-
+making changes to reflect in Jenkins
 # mycode (Project Title)
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
@@ -24,5 +24,5 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Sumit Shrestha** - *Initial work* - [YourWebsite](https://example.com/)
+* **Sumit Shrestha** 
 
